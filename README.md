@@ -20,6 +20,11 @@
 - scikit-learn  0.19.1
 - jupyter       1.0.0
 - nb_conda      2.2.1
+- seaborn       0.9.0
+- missingno     0.4.1
+- cython        0.28.5
+- PyHamcrest    1.9.0
+- plotly        3.1.0  
 
 ## Directory Structure
 ```
